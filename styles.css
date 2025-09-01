@@ -497,6 +497,8 @@ nav .right a i {
     justify-content: center;
   }
   
+
+  
   .projects-container {
     grid-template-columns: 1fr;
     gap: 20px;
